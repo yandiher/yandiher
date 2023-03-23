@@ -1,8 +1,10 @@
-<h1 align="center">Hi 👋, I am Yandi</h1>
+<h1 align="center">Hi there 👋, I am Yandiher</h1>
 <h2 align="center">A data scientist who spend a lot of time for Music and Statistics.</h2>
 <img align="right" alt="wizard musician" width="350" src="https://i.pinimg.com/originals/3b/5a/b9/3b5ab90e804b1e1658c668afa9a75f28.gif">
 
-- 🌱 I’m currently learning **Data Architecture, Machine Learning, and Deep Learning**
++ 🌱 I’m currently learning
+
+  **Data Architecture, Machine Learning, and Deep Learning**
 
 - 📫 How to reach me : **yandi.h.m@gmail.com**
 
