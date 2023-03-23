@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, My friends call me Yandi</h1>
-<h3 align="center">I'm a Junior Data Scientist and I'm now on my progress to build a machine learning model for NGO that involved in education.</h3>
+<h1 align="center">Hi 👋, I am Yandi</h1>
+<h3 align="center">A data scientist who spend a lot of time for Music and Statistics.</h3>
 
 - 🌱 I’m currently learning **Data Architecture, Machine Learning, and Deep Learning**
 
-- 📫 How to reach me **yandi.h.m@gmail.com**
+- 📫 How to reach me : **yandi.h.m@gmail.com**
 
-- ⚡ Fun fact **I'm trying to longish**
+- ⚡ Fun fact about me : **I'm trying to longish**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
