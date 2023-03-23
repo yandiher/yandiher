@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I am Yandiher</h1>
 <h2 align="center">A data scientist who spend a lot of time for Music and Statistics.</h2>
-<img align="right" alt="wizard musician" width="450" src="https://i.pinimg.com/originals/3b/5a/b9/3b5ab90e804b1e1658c668afa9a75f28.gif">
+<img align="right" alt="wizard musician" width="350" src="https://i.pinimg.com/originals/3b/5a/b9/3b5ab90e804b1e1658c668afa9a75f28.gif">
 
 + 🌱 I’m currently enhancing my knowledge about
 
