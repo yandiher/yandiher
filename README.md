@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, My friends Yandi Hermawan</h1>
-<h3 align="center">I am a Junior Data Scientist. I am now on my progress to build a machine learning model for NGO that involved in education.</h3>
+<h1 align="center">Hi 👋, My friends call me Yandi</h1>
+<h3 align="center">I'm a Junior Data Scientist and I'm now on my progress to build a machine learning model for NGO that involved in education.</h3>
 
 - 🌱 I’m currently learning **Data Architecture, Machine Learning, and Deep Learning**
 
