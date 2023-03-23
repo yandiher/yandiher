@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I am Yandi</h1>
-<h3 align="center">A data scientist who spend a lot of time for Music and Statistics.</h3>
-<img align="right" alt="wizard musician" width="400" src="https://i.gifer.com/SUeF.gif">
+<h2 align="center">A data scientist who spend a lot of time for Music and Statistics.</h2>
+<img align="right" alt="wizard musician" width="350" src="https://i.pinimg.com/originals/3b/5a/b9/3b5ab90e804b1e1658c668afa9a75f28.gif">
 
 - 🌱 I’m currently learning **Data Architecture, Machine Learning, and Deep Learning**
 
@@ -11,7 +11,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/yandihermawan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yandihermawan" height="30" width="40" /></a>
-<a href="https://instagram.com/@dimawanin_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@dimawanin_" height="30" width="40" /></a>
+<a href="https://instagram.com/dimawanin_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@dimawanin_" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
