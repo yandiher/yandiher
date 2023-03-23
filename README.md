@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I am Yandi</h1>
 <h3 align="center">A data scientist who spend a lot of time for Music and Statistics.</h3>
+<img align="right" alt="wizard musician" width="400" src="https://i.gifer.com/SUeF.gif">
 
 - 🌱 I’m currently learning **Data Architecture, Machine Learning, and Deep Learning**
 
