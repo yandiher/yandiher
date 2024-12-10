@@ -4,7 +4,7 @@
 
 + 🌱 I’m currently enhancing my knowledge about
 
-  **Business Analyst, Machine Learning, and Deep Learning**
+  **Deep Learning, Natural Language Processing, and Business Acumen**
 
 - 📫 How to reach me : **yandi.h.m@gmail.com**
 
